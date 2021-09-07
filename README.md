@@ -1,5 +1,7 @@
 # elastic-hwy401
 
+![](screenshots/yolo.jpg)
+
 Track traffic flow on Highway 401 with YOLOv5 vehicle detection. Inspired by many frustrating experiences on the 401. 
 
 
