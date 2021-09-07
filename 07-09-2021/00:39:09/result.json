@@ -1,0 +1,1 @@
+[{"xmin":395.5,"ymin":243.5,"xmax":542.5,"ymax":345.5,"confidence":0.5668945312,"class":5,"name":"bus","is_vehicle":1},{"xmin":397.5,"ymin":245.75,"xmax":540.0,"ymax":345.25,"confidence":0.3149414062,"class":2,"name":"car","is_vehicle":1}]
